@@ -1,6 +1,7 @@
 # Weather CLI
 
-Simple app that scrape a local website to show the weather for 12 days.
+Simple CLI app that scrape a local website to show the weather for 12 days
+or the current day.
 
 ## Installation
 
