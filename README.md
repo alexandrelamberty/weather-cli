@@ -1,3 +1,5 @@
+[![Go CI](https://github.com/alexandrelamberty/weather-cli/actions/workflows/golang.yaml/badge.svg)](https://github.com/alexandrelamberty/weather-cli/actions/workflows/golang.yaml)
+
 # Weather CLI
 
 Simple CLI app that scrape a local website to show the weather for 12 days
